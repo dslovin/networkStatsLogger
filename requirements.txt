@@ -1,0 +1,6 @@
+#sudo apt-get install libiw-dev python-cffi libffi-dev 
+cffi
+ifcfg
+iwlib
+speedtest-cli
+google-cloud-storage
